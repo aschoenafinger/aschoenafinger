@@ -22,12 +22,7 @@ Most of my programming is purpose-built for internal research or private dataset
 ## 🌐 Find Me Online
 
 - [ORCID](https://orcid.org/0000-0002-4634-9414)
-- [Eurac Research Profile](https://www.eurac.edu/de/people/alexander-schoenafinger)
 - [LinkedIn](https://www.linkedin.com/in/alexander-sch%C3%B6nafinger-6205a0219/)
-
-<!--
-Fun facts, personal mottos, or hobbies can go here if you wish to share them in the future!
--->
 
 ---
 
